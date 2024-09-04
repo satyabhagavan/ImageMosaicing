@@ -14,24 +14,24 @@ Image mosaicing is the process of stitching multiple images with overlapping reg
 
 The following images were used as input to create the mosaic:
 
-| Image 1           | Image 2           | Image 3           |
-| ----------------- | ----------------- | ----------------- |
-| ![img1](img1.png) | ![img2](img2.png) | ![img3](img3.png) |
+| Image 1                  | Image 2                  | Image 3                  |
+| ------------------------ | ------------------------ | ------------------------ |
+| ![img1](images/img1.png) | ![img2](images/img2.png) | ![img3](images/img3.png) |
 
 ## Result
 
 The resulting mosaic after stitching the three input images is:
 
-![Mosaic](merged_1.png)
+![Mosaic](results/merged_1.png)
 
 ### Another example
 
-| Image 1           | Image 2           | Image 3           |
-| ----------------- | ----------------- | ----------------- |
-| ![img1](mg_1.jpg) | ![img2](mg_2.jpg) | ![img3](mg_3.jpg) |
+| Image 1                  | Image 2                  | Image 3                  |
+| ------------------------ | ------------------------ | ------------------------ |
+| ![img1](images/mg_1.jpg) | ![img2](images/mg_2.jpg) | ![img3](images/mg_3.jpg) |
 
 ### Result
 
 The resulting mosaic after stitching the three input images is:
 
-![Mosaic](mandakini_merged.jpg)
+![Mosaic](results/mandakini_merged.jpg)
